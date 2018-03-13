@@ -1,1 +1,2 @@
 # risalnik
+Vaja za Github
